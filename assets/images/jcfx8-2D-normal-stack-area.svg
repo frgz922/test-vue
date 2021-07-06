@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="812px" height="506px" viewBox="0 0 812 506" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>jcfx8-2D normal stack area</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L800,0 L800,487.99844 C800,491.31301 797.317814,494 793.992282,494 L6.00771839,494 C2.68974714,494 0,491.312307 0,487.99844 L0,0 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.4%" height="103.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-1.4%" width="102.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.674509804   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E4E7EA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="56.4074029" y="71.9239897" width="620" height="336.817775" rx="3"></rect>
+        <filter x="-2.9%" y="-5.3%" width="105.8%" height="110.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.51372549   0 0 0 0 0.6   0 0 0 0 0.643137255  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-8.0%" y="-15.9%" width="115.9%" height="131.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.741176471   0 0 0 0 0.741176471   0 0 0 0 0.741176471  0 0 0 0.679432745 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-9">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.4873246%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-12">
+            <stop stop-color="#44CADD" offset="0%"></stop>
+            <stop stop-color="#80DEEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-13">
+            <stop stop-color="#44CADD" offset="0%"></stop>
+            <stop stop-color="#80DEEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-14">
+            <stop stop-color="#A5D6A7" offset="0%"></stop>
+            <stop stop-color="#72C076" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-15">
+            <stop stop-color="#A5D6A7" offset="0%"></stop>
+            <stop stop-color="#72C076" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="30.3933873%" x2="100%" y2="30.3933859%" id="linearGradient-16">
+            <stop stop-color="#72C076" offset="0%"></stop>
+            <stop stop-color="#A5D6A7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-17">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="62.4612749%" x2="100%" y2="62.4612749%" id="linearGradient-18">
+            <stop stop-color="#44CADD" offset="0%"></stop>
+            <stop stop-color="#80DEEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-19">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2D-normal-stack-area" transform="translate(6.000000, 5.000000)">
+            <g id="Canvas+Border">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-46" transform="translate(21.000000, 16.032454)">
+                <g id="Group-6">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <rect stroke="#CFD5DC" stroke-width="1" stroke-linejoin="square" fill="url(#linearGradient-4)" fill-rule="evenodd" x="56.9074029" y="72.4239897" width="619" height="335.817775" rx="3"></rect>
+                    </g>
+                    <g id="Group-11" transform="translate(56.500000, 417.337684)" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                        <text id="Jan">
+                            <tspan x="0.576" y="12.0162272">Jan</tspan>
+                        </text>
+                        <text id="Feb">
+                            <tspan x="51.948" y="12.0162272">Feb</tspan>
+                        </text>
+                        <text id="Mar">
+                            <tspan x="106.096" y="12.0162272">Mar</tspan>
+                        </text>
+                        <text id="Apr">
+                            <tspan x="160.708" y="12.0162272">Apr</tspan>
+                        </text>
+                        <text id="May">
+                            <tspan x="215.248" y="12.0162272">May</tspan>
+                        </text>
+                        <text id="Jun">
+                            <tspan x="273.168" y="12.0162272">Jun</tspan>
+                        </text>
+                        <text id="Jul">
+                            <tspan x="327.176" y="12.0162272">Jul</tspan>
+                        </text>
+                        <text id="Aug">
+                            <tspan x="374.224" y="12.0162272">Aug</tspan>
+                        </text>
+                        <text id="Sep">
+                            <tspan x="430.036" y="12.0162272">Sep</tspan>
+                        </text>
+                        <text id="Oct">
+                            <tspan x="485.692" y="12.0162272">Oct</tspan>
+                        </text>
+                        <text id="Nov">
+                            <tspan x="539.16" y="12.0162272">Nov</tspan>
+                        </text>
+                        <text id="Dec">
+                            <tspan x="595.904" y="12.0162272">Dec</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-7" transform="translate(0.000000, 67.629773)">
+                        <g id="Group-4">
+                            <g id="Group" filter="url(#filter-7)" transform="translate(57.000000, 31.420576)" stroke="#CFD5DC" stroke-dasharray="3,1">
+                                <path d="M0.0756865207,281.210145 L620.166166,281.210145" id="Path-2"></path>
+                                <path d="M0.0756865207,309.200756 L620.166166,309.200756" id="Path-2"></path>
+                                <path d="M0.0756865207,253.219533 L620.166166,253.219533" id="Path-2"></path>
+                                <path d="M0.0756865207,225.228922 L620.166166,225.228922" id="Path-2"></path>
+                                <path d="M0.0756865207,197.23831 L620.166166,197.23831" id="Path-2"></path>
+                                <path d="M0.0756865207,169.247698 L620.166166,169.247698" id="Path-2"></path>
+                                <path d="M0.0756865207,141.257087 L620.166166,141.257087" id="Path-2"></path>
+                                <path d="M0.0756865207,113.266475 L620.166166,113.266475" id="Path-2"></path>
+                                <path d="M0.0756865207,85.2758635 L620.166166,85.2758635" id="Path-2"></path>
+                                <path d="M0.0756865207,57.2852519 L620.166166,57.2852519" id="Path-2"></path>
+                                <path d="M0.0756865207,29.2946403 L620.166166,29.2946403" id="Path-2"></path>
+                                <path d="M0.0756865207,1.30402864 L620.166166,1.30402864" id="Path-2"></path>
+                            </g>
+                            <g id="Group-3" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                                <text id="$0">
+                                    <tspan x="32.6" y="341.950796">$0</tspan>
+                                </text>
+                                <text id="$5,000">
+                                    <tspan x="8.144" y="316.179823">$5,000</tspan>
+                                </text>
+                                <text id="$10,000">
+                                    <tspan x="0.944" y="288.439051">$10,000</tspan>
+                                </text>
+                                <text id="$15,000">
+                                    <tspan x="0.944" y="260.698279">$15,000</tspan>
+                                </text>
+                                <text id="$20,000">
+                                    <tspan x="0.944" y="232.957506">$20,000</tspan>
+                                </text>
+                                <text id="$25,000">
+                                    <tspan x="0.944" y="205.216734">$25,000</tspan>
+                                </text>
+                                <text id="$30,000">
+                                    <tspan x="0.944" y="177.475962">$30,000</tspan>
+                                </text>
+                                <text id="$35,000">
+                                    <tspan x="0.944" y="149.735189">$35,000</tspan>
+                                </text>
+                                <text id="$40,000">
+                                    <tspan x="0.944" y="121.994417">$40,000</tspan>
+                                </text>
+                                <text id="$45,000">
+                                    <tspan x="0.944" y="94.2536446">$45,000</tspan>
+                                </text>
+                                <text id="$50,000">
+                                    <tspan x="0.944" y="66.5128722">$50,000</tspan>
+                                </text>
+                                <text id="$60,000">
+                                    <tspan x="0.956" y="12.0162272">$60,000</tspan>
+                                </text>
+                                <text id="$55,000">
+                                    <tspan x="0.944" y="38.7720998">$55,000</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="2D-Normal-Stack-Area" font-family="Nunito-ExtraBold, Nunito" font-size="18" font-weight="600" fill="#5B6C7F">
+                        <tspan x="0" y="18.5182114">2D Normal Stack Area</tspan>
+                    </text>
+                    <text id="Subtitle-area-chart" font-family="Nunito-SemiBold, Nunito" font-size="14" font-weight="500" fill="#7B8797">
+                        <tspan x="0" y="42.5506658">Subtitle area chart</tspan>
+                    </text>
+                    <rect id="Rectangle-6" stroke="url(#linearGradient-9)" stroke-width="2" fill="url(#linearGradient-8)" x="691" y="72.6378869" width="18" height="18.040568"></rect>
+                    <text id="Series-1" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="715.332" y="84.6561424">Series 1</tspan>
+                    </text>
+                    <rect id="Rectangle-6" stroke="url(#linearGradient-11)" stroke-width="2" fill="url(#linearGradient-10)" x="691" y="102.698739" width="18" height="18.040568"></rect>
+                    <text id="Series-2" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="715.332" y="114.716994">Series 2</tspan>
+                    </text>
+                    <rect id="Rectangle-6" stroke="url(#linearGradient-13)" stroke-width="2" fill="url(#linearGradient-12)" x="691" y="132.759591" width="18" height="18.040568"></rect>
+                    <text id="Series-3" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="715.332" y="144.777846">Series 3</tspan>
+                    </text>
+                    <rect id="Rectangle-6" stroke="url(#linearGradient-15)" stroke-width="2" fill="url(#linearGradient-14)" x="691" y="162.820443" width="18" height="18.040568"></rect>
+                    <text id="Series-3" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="715.332" y="174.838698">Series 3</tspan>
+                    </text>
+                    <polygon id="Path-4" fill-opacity="0.9" fill="url(#linearGradient-16)" points="112.010331 148.459211 171.630572 181.130097 222.447456 170.872489 274.117288 205.028619 344.747593 187.012741 408.037855 155.687998 504.898249 170.872489 560.24984 114.765257 616.059206 114.765257 675.151245 84.0373035 675.151245 407.681245 57.53125 407.681245 57.53125 155.687998"></polygon>
+                    <polyline id="Path-4" stroke="url(#linearGradient-15)" stroke-width="3" points="57.53125 155.687998 111.921875 148.459211 171.445312 181.130097 222.179687 170.872489 273.765625 205.028619 344.832031 188.453114 407.46875 155.687998 504.171875 170.872489 559.433594 114.765257 615.152344 114.765257 674.148438 84.0373035"></polyline>
+                    <polygon id="Path-4" fill-opacity="0.9" fill="url(#linearGradient-10)" points="111.662109 223.257602 166.512887 267.434808 225.906197 211.919064 276.136191 252.389351 334.191391 211.919064 400.153961 175.581992 502.550687 222.335506 556.947603 195.844937 618.097672 222.335506 675.151245 245.22573 675.151245 407.681245 57.53125 407.681245 57.53125 183.0468"></polygon>
+                    <polyline id="Path-4" stroke="url(#linearGradient-17)" stroke-width="3" points="57.53125 183.0468 111.574219 223.257602 166.335938 267.434808 225.632812 211.919064 275.78125 252.389351 333.742187 211.919064 399.597656 175.581992 501.140625 223.257602 556.136719 195.844937 617.1875 222.335506 674.148437 245.22573"></polyline>
+                    <polyline id="Path-4" fill-opacity="0.9" fill="url(#linearGradient-18)" points="57.6835938 323.678545 113.366945 309.182651 167.230963 274.997075 222.976915 308.284959 277.134373 289.360146 333.459382 303.12781 398.838022 269.464361 502.614386 232.924632 559.788417 284.775505 611.762675 303.12781 676.143616 282.279372 676.143616 407.681245 57.6835938 407.681245 57.6835938 372.492036"></polyline>
+                    <polyline id="Path-4" stroke="url(#linearGradient-13)" stroke-width="3" points="57.6835938 323.678545 113.277344 309.182651 167.054687 274.997075 222.710938 308.284959 276.78125 289.360146 332.941406 303.12781 398.289063 269.464361 501.898438 232.924632 558.980469 284.775505 610.871094 303.12781 675.148438 282.279372"></polyline>
+                </g>
+                <polyline id="Path-4" fill-opacity="0.9" fill="url(#linearGradient-19)" points="676.143616 364.331692 620.460264 356.851092 566.596247 339.209642 510.850295 356.387839 456.692836 346.621698 400.665181 376.626818 334.989188 336.354487 231.212824 317.498178 174.038792 344.255796 122.064534 353.726495 57.6835938 342.967668 57.6835938 407.681245 676.143616 407.681245 676.143616 389.521871"></polyline>
+                <polyline id="Path-4" stroke="url(#linearGradient-9)" stroke-width="3" points="675.148438 364.331692 619.554688 356.851092 565.777344 339.209642 510.121094 356.387839 456.050781 346.621698 400.113281 376.626818 334.542969 336.354487 230.933594 317.498178 173.851563 344.255796 121.960938 353.726495 57.6835938 342.967668"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

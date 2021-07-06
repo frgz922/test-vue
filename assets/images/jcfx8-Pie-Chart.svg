@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810px" height="504px" viewBox="0 0 810 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>jcfx8-Pie Chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.5,0.5 L799.5,0.5 L799.5,485.50617 C799.5,489.921041 795.915717,493.5 791.494892,493.5 L8.50510803,493.5 C4.08400894,493.5 0.5,489.918886 0.5,485.50617 L0.5,0.5 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.4%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-1.4%" width="102.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.674509804   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="40.7851215%" cy="50%" fx="40.7851215%" fy="50%" r="60.4451212%" gradientTransform="translate(0.407851,0.500000),scale(1.000000,0.841918),rotate(180.000000),translate(-0.407851,-0.500000)" id="radialGradient-4">
+            <stop stop-color="#90CAF9" offset="0%"></stop>
+            <stop stop-color="#58ACF4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="163.836545%" gradientTransform="translate(1.000000,0.000000),scale(0.660377,1.000000),rotate(147.391296),translate(-1.000000,-0.000000)" id="radialGradient-5">
+            <stop stop-color="#E6EE9C" offset="0%"></stop>
+            <stop stop-color="#D8E467" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="140.667545%" gradientTransform="translate(1.000000,0.000000),scale(0.909538,1.000000),rotate(134.692134),translate(-1.000000,-0.000000)" id="radialGradient-6">
+            <stop stop-color="#FAD564" offset="0%"></stop>
+            <stop stop-color="#FFC007" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="19.5695715%" fx="100%" fy="19.5695715%" r="219.771873%" gradientTransform="translate(1.000000,0.195696),scale(0.459443,1.000000),rotate(172.041043),translate(-1.000000,-0.195696)" id="radialGradient-7">
+            <stop stop-color="#A5D6A7" offset="0%"></stop>
+            <stop stop-color="#72C076" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="142.597873%" gradientTransform="translate(1.000000,1.000000),scale(0.705336,1.000000),rotate(-135.470795),translate(-1.000000,-1.000000)" id="radialGradient-8">
+            <stop stop-color="#B39DDB" offset="0%"></stop>
+            <stop stop-color="#8867C7" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="138.916398%" gradientTransform="translate(1.000000,1.000000),scale(1.000000,0.718261),rotate(-119.506159),translate(-1.000000,-1.000000)" id="radialGradient-9">
+            <stop stop-color="#80DEEA" offset="0%"></stop>
+            <stop stop-color="#44CADD" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="141.421356%" id="radialGradient-10">
+            <stop stop-color="#90CAF9" offset="0%"></stop>
+            <stop stop-color="#58ACF4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="141.421356%" id="radialGradient-11">
+            <stop stop-color="#B39DDB" offset="0%"></stop>
+            <stop stop-color="#8867C7" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="141.421356%" id="radialGradient-12">
+            <stop stop-color="#80DEEA" offset="0%"></stop>
+            <stop stop-color="#44CADD" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="19.5695715%" fx="100%" fy="19.5695715%" r="128.331811%" id="radialGradient-13">
+            <stop stop-color="#A5D6A7" offset="0%"></stop>
+            <stop stop-color="#72C076" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="134.523943%" id="radialGradient-14">
+            <stop stop-color="#FAD564" offset="0%"></stop>
+            <stop stop-color="#FFC007" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="126.892638%" id="radialGradient-15">
+            <stop stop-color="#E6EE9C" offset="0%"></stop>
+            <stop stop-color="#D8E467" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pie-Chart" transform="translate(5.000000, 4.000000)">
+            <g id="Area-Chart">
+                <g id="2D-side-by-Side">
+                    <g id="Rectangle">
+                        <g id="Rectangle-path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <text id="Pie-Charts" font-family="Nunito-ExtraBold, Nunito" font-size="18" font-weight="600" fill="#5B6C7F">
+                        <tspan x="21" y="35.6196581">Pie Charts</tspan>
+                    </text>
+                    <text id="Subtitle-pie-charts" font-family="Nunito-SemiBold, Nunito" font-size="14" font-weight="500" fill="#7B8797">
+                        <tspan x="21" y="57.3461538">Subtitle pie charts</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-8" transform="translate(130.000000, 91.000000)">
+                <circle id="Oval-2" fill-opacity="0.15" fill="#556980" cx="230.5" cy="158.5" r="153.5"></circle>
+                <path d="M120.539831,265.50789 C147.990227,291.241438 184.904809,307 225.5,307 C310.275709,307 379,238.275709 379,153.5 C379,69.328402 311.251677,0.9802726 227.309869,0.0104504 L226.720215,154.146484 L120.539831,265.50789 Z" id="Combined-Shape" fill="url(#radialGradient-4)" fill-rule="nonzero"></path>
+                <path d="M104.59994,248.091159 C96.504347,237.758457 89.704631,226.361784 84.445419,214.145766 L227.28125,153.765625 L104.59994,248.091159 Z" id="Combined-Shape" fill="url(#radialGradient-5)" fill-rule="nonzero"></path>
+                <path d="M120.370584,265.348989 C114.689511,260.007165 109.415468,254.237392 104.59994,248.091159 L227.28125,153.765625 L120.370584,265.348989 Z" id="Combined-Shape" fill="url(#radialGradient-6)" fill-rule="nonzero" opacity="0.8"></path>
+                <path d="M84.627957,214.56801 C76.503884,195.853075 72,175.202507 72,153.5 C72,150.149623 72.107338,146.824316 72.318764,143.527331 L226.623535,153.969727 L84.627957,214.56801 Z" id="Combined-Shape" fill="url(#radialGradient-7)" fill-rule="nonzero"></path>
+                <path d="M72.296683,143.877874 C74.685687,105.252727 91.358886,70.494141 117.098067,44.820328 L227.125,154.026367 L72.296683,143.877874 Z" id="Combined-Shape" fill="url(#radialGradient-8)" fill-rule="nonzero"></path>
+                <path d="M117.213542,44.705268 C144.971241,17.076441 183.241412,-1.42108547e-14 225.5,-1.42108547e-14 C226.196128,-1.42108547e-14 226.891173,0.0046339 227.585107,0.0138725 L226.786133,153.665039 L117.213542,44.705268 Z" id="Combined-Shape" fill="url(#radialGradient-9)" fill-rule="nonzero"></path>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="318.356" y="158">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="172.356" y="57">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="105.356" y="115">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="99.356" y="177">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="109.356" y="221.796526">70%</tspan>
+                </text>
+                <g id="Group-17" transform="translate(0.000000, 247.000000)">
+                    <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="0.356" y="12.7965256">70%</tspan>
+                    </text>
+                    <path d="M117.230469,7.55859375 L31.3166529,7.55859375" id="Path-11" stroke="#FFC007"></path>
+                </g>
+            </g>
+            <g id="Group-13" transform="translate(708.000000, 87.000000)">
+                <text id="Series-1" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="27.332" y="14">Series 1</tspan>
+                </text>
+                <text id="Series-2" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="27.332" y="44.25">Series 2</tspan>
+                </text>
+                <text id="Series-3" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="27.332" y="74.5">Series 3</tspan>
+                </text>
+                <text id="Series-4" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="27.332" y="104.75">Series 4</tspan>
+                </text>
+                <text id="Series-5" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="27.332" y="135">Series 5</tspan>
+                </text>
+                <rect id="Rectangle-6" fill="url(#radialGradient-10)" fill-rule="nonzero" x="0" y="0" width="20" height="20"></rect>
+                <rect id="Rectangle-6" fill="url(#radialGradient-11)" fill-rule="nonzero" x="0" y="30" width="20" height="20"></rect>
+                <rect id="Rectangle-6" fill="url(#radialGradient-12)" fill-rule="nonzero" x="0" y="60" width="20" height="20"></rect>
+                <rect id="Rectangle-6" fill="url(#radialGradient-13)" fill-rule="nonzero" x="0" y="90" width="20" height="20"></rect>
+                <text id="Series-6" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="27.344" y="164.75">Series 6</tspan>
+                </text>
+                <rect id="Rectangle-6" fill="url(#radialGradient-14)" fill-rule="nonzero" opacity="0.8" x="0" y="150" width="20" height="20"></rect>
+                <rect id="Rectangle-6" fill="url(#radialGradient-15)" fill-rule="nonzero" x="0" y="120" width="20" height="20"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

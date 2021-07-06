@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810px" height="504px" viewBox="0 0 810 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Lines-and-Stripes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.5,0.5 L799.5,0.5 L799.5,485.50617 C799.5,489.921041 795.915717,493.5 791.494892,493.5 L8.50510803,493.5 C4.08400894,493.5 0.5,489.918886 0.5,485.50617 L0.5,0.5 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.4%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-1.4%" width="102.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.674509804   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E4E7EA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="57.4074029" y="6.2855237" width="620" height="336.135958" rx="3"></rect>
+        <filter x="-2.9%" y="-5.4%" width="105.8%" height="110.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.51372549   0 0 0 0 0.6   0 0 0 0 0.643137255  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="62.4612749%" x2="100%" y2="62.4612749%" id="linearGradient-9">
+            <stop stop-color="#44CADD" offset="0%"></stop>
+            <stop stop-color="#80DEEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="98.4873246%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="98.4873246%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Lines-and-Stripes" transform="translate(5.000000, 4.000000)">
+            <g id="Area-Chart">
+                <g id="2D-side-by-Side">
+                    <g id="Rectangle">
+                        <g id="Rectangle-path">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <text id="Jan" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="96.576" y="445">Jan</tspan>
+                    </text>
+                    <text id="Feb" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="144.948" y="445">Feb</tspan>
+                    </text>
+                    <text id="Mar" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="197.096" y="445">Mar</tspan>
+                    </text>
+                    <text id="Apr" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="247.708" y="445">Apr</tspan>
+                    </text>
+                    <text id="May" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="300.248" y="445">May</tspan>
+                    </text>
+                    <text id="Jun" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="356.168" y="445">Jun</tspan>
+                    </text>
+                    <text id="Jul" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="409.176" y="445">Jul</tspan>
+                    </text>
+                    <text id="Aug" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="454.224" y="445">Aug</tspan>
+                    </text>
+                    <text id="Sep" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="508.036" y="445">Sep</tspan>
+                    </text>
+                    <text id="Oct" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="559.692" y="445">Oct</tspan>
+                    </text>
+                    <text id="Nov" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="610.16" y="445">Nov</tspan>
+                    </text>
+                    <text id="Dec" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                        <tspan x="663.904" y="445">Dec</tspan>
+                    </text>
+                    <g id="Group-7" transform="translate(20.000000, 81.000000)">
+                        <g id="path-25">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <rect stroke="#CFD5DC" stroke-width="1" stroke-linejoin="square" fill="url(#linearGradient-4)" fill-rule="evenodd" x="57.9074029" y="6.7855237" width="619" height="335.135958" rx="3"></rect>
+                        </g>
+                        <g id="Group" transform="translate(58.000000, 34.356971)" stroke="#CFD5DC">
+                            <path d="M0.0756865207,279.718273 L619.075687,279.718273" id="Path-2"></path>
+                            <path d="M0.0756865207,251.861702 L619.075687,251.861702" id="Path-2"></path>
+                            <path d="M0.0756865207,224.005131 L619.075687,224.005131" id="Path-2"></path>
+                            <path d="M0.0756865207,196.14856 L619.075687,196.14856" id="Path-2"></path>
+                            <path d="M0.0756865207,168.291988 L619.075687,168.291988" id="Path-2"></path>
+                            <path d="M0.0756865207,140.435417 L619.075687,140.435417" id="Path-2"></path>
+                            <path d="M0.0756865207,112.578846 L619.075687,112.578846" id="Path-2"></path>
+                            <path d="M0.0756865207,84.722275 L619.075687,84.722275" id="Path-2"></path>
+                            <path d="M0.0756865207,56.8657041 L619.075687,56.8657041" id="Path-2"></path>
+                            <path d="M0.0756865207,29.009133 L619.075687,29.009133" id="Path-2"></path>
+                            <path d="M0.0756865207,1.1525619 L619.075687,1.1525619" id="Path-2"></path>
+                        </g>
+                        <g id="Group-3" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                            <text id="0">
+                                <tspan x="21.8" y="346.993063">0</tspan>
+                            </text>
+                            <text id="500">
+                                <tspan x="7.4" y="320.826974">500</tspan>
+                            </text>
+                            <text id="1000">
+                                <tspan x="0.2" y="292.660885">1000</tspan>
+                            </text>
+                            <text id="1500">
+                                <tspan x="0.2" y="264.494797">1500</tspan>
+                            </text>
+                            <text id="2000">
+                                <tspan x="0.2" y="236.328708">2000</tspan>
+                            </text>
+                            <text id="2500">
+                                <tspan x="0.2" y="208.16262">2500</tspan>
+                            </text>
+                            <text id="3000">
+                                <tspan x="0.2" y="179.996531">3000</tspan>
+                            </text>
+                            <text id="3500">
+                                <tspan x="0.2" y="151.830443">3500</tspan>
+                            </text>
+                            <text id="4000">
+                                <tspan x="0.2" y="123.664354">4000</tspan>
+                            </text>
+                            <text id="4500">
+                                <tspan x="0.2" y="95.4982656">4500</tspan>
+                            </text>
+                            <text id="5000">
+                                <tspan x="0.2" y="67.3321771">5000</tspan>
+                            </text>
+                            <text id="6000">
+                                <tspan x="0.212" y="12">6000</tspan>
+                            </text>
+                            <text id="5500">
+                                <tspan x="0.2" y="39.1660885">5500</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="2D-Multiple-Series-L" font-family="Nunito-ExtraBold, Nunito" font-size="18" font-weight="600" fill="#5B6C7F">
+                        <tspan x="21" y="35">2D Multiple Series Line</tspan>
+                    </text>
+                    <text id="Subtitle-2D-multiple" font-family="Nunito-SemiBold, Nunito" font-size="14" font-weight="500" fill="#7B8797">
+                        <tspan x="21" y="59">Subtitle 2D multiple series line</tspan>
+                    </text>
+                </g>
+                <text id="Series-1" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="735.332" y="101">Series 1</tspan>
+                </text>
+                <text id="Series-2" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="735.332" y="131">Series 2</tspan>
+                </text>
+                <text id="Series-3" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="735.332" y="161">Series 3</tspan>
+                </text>
+                <polyline id="series-1-line" stroke="url(#linearGradient-7)" stroke-width="3" points="108.048067 202.992188 158.83962 195.699219 210.291682 166.367188 262.117952 176.960938 312.417969 195.699219 364.25 224.652344 415.875 199.992188 466.761959 191.723241 518.21875 182.634766 569.511391 168.367188 620.518768 167.367188 672.526368 140.617188"></polyline>
+                <polyline id="series-2-line" stroke="url(#linearGradient-8)" stroke-width="3" points="108.187529 350.71875 159.080475 338.355469 211.310604 311.199219 261.260766 338.589844 312.759091 321.449219 363.966722 366.039062 415.992649 308.480469 467.088065 290.303951 517.841196 275.316406 569.515625 321.449219 620.265625 332.320312 672.441812 317.410156"></polyline>
+                <polyline id="series-3-line" stroke="url(#linearGradient-9)" stroke-width="3" points="108.048067 233.992188 158.949219 269.890625 211.054687 302.878906 261.935578 258.332031 312.835937 293.582031 364.289062 256.144531 415.953125 229.300781 466.429687 280.914062 517.796875 320.324219 569.582031 248.433594 621.554688 267.890625 672.526368 286.410156"></polyline>
+            </g>
+            <g id="series-1-dots" transform="translate(103.000000, 134.000000)" fill-rule="nonzero">
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="5.899963" cy="68" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="57.17269" cy="61" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="108.445417" cy="33" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-11)" cx="159.718144" cy="43" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="210.990872" cy="62" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="262.263599" cy="91" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="313.536326" cy="66" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="364.809054" cy="58" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="416.081781" cy="49" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="467.354508" cy="35" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="518.627235" cy="34" r="5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-10)" cx="569.899963" cy="5" r="5"></circle>
+            </g>
+            <g id="series-2-dots" transform="translate(103.000000, 271.000000)" fill="url(#linearGradient-8)" fill-rule="nonzero">
+                <circle id="Oval" cx="5.899963" cy="79" r="5"></circle>
+                <circle id="Oval" cx="57.17269" cy="68" r="5"></circle>
+                <circle id="Oval" cx="108.445417" cy="40" r="5"></circle>
+                <circle id="Oval" cx="159.718144" cy="68" r="5"></circle>
+                <circle id="Oval" cx="210.990872" cy="51" r="5"></circle>
+                <circle id="Oval" cx="262.263599" cy="95" r="5"></circle>
+                <circle id="Oval" cx="313.536326" cy="38" r="5"></circle>
+                <circle id="Oval" cx="364.809054" cy="20" r="5"></circle>
+                <circle id="Oval" cx="416.081781" cy="5" r="5"></circle>
+                <circle id="Oval" cx="467.354508" cy="51" r="5"></circle>
+                <circle id="Oval" cx="518.627235" cy="62" r="5"></circle>
+                <circle id="Oval" cx="569.899963" cy="47" r="5"></circle>
+            </g>
+            <g id="series-3-dots" transform="translate(103.000000, 226.000000)" fill="url(#linearGradient-9)" fill-rule="nonzero">
+                <circle id="Oval" cx="5.899963" cy="7" r="5"></circle>
+                <circle id="Oval" cx="57.17269" cy="44" r="5"></circle>
+                <circle id="Oval" cx="108.445417" cy="77" r="5"></circle>
+                <circle id="Oval" cx="159.718144" cy="33" r="5"></circle>
+                <circle id="Oval" cx="210.990872" cy="67" r="5"></circle>
+                <circle id="Oval" cx="262.263599" cy="30" r="5"></circle>
+                <circle id="Oval" cx="313.536326" cy="5" r="5"></circle>
+                <circle id="Oval" cx="364.809054" cy="55" r="5"></circle>
+                <circle id="Oval" cx="416.081781" cy="94" r="5"></circle>
+                <circle id="Oval" cx="467.354508" cy="22" r="5"></circle>
+                <circle id="Oval" cx="518.627235" cy="42" r="5"></circle>
+                <circle id="Oval" cx="569.899963" cy="61" r="5"></circle>
+            </g>
+            <path d="M711,97 L730.5,97" id="Path-5" stroke="url(#linearGradient-8)" stroke-width="3" opacity="0.8"></path>
+            <path d="M711,127 L730.5,127" id="Path-5" stroke="url(#linearGradient-9)" stroke-width="3" opacity="0.8"></path>
+            <path d="M711,157 L730.5,157" id="Path-5" stroke="url(#linearGradient-11)" stroke-width="3" opacity="0.8"></path>
+            <circle id="Oval" fill="url(#linearGradient-8)" fill-rule="nonzero" cx="721" cy="97" r="5"></circle>
+            <circle id="Oval" fill="url(#linearGradient-9)" fill-rule="nonzero" cx="721" cy="127" r="5"></circle>
+            <circle id="Oval" fill="url(#linearGradient-11)" fill-rule="nonzero" cx="721" cy="157" r="5"></circle>
+        </g>
+    </g>
+</svg>

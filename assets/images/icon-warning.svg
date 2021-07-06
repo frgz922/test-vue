@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-184.000000, -254.000000)">
+            <g id="icon-warning" transform="translate(184.000000, 254.000000)">
+                <path d="M30.9621181,61.9242363 C48.0342159,61.9242363 61.9242363,48.0342159 61.9242363,30.9621181 C61.9242363,13.8900204 48.0342159,0 30.9621181,0 C13.8900204,0 0,13.8900204 0,30.9621181 C0,48.0342159 13.8900204,61.9242363 30.9621181,61.9242363 Z" id="icon-save-false" fill="#F6C761" fill-rule="nonzero"></path>
+                <path d="M34,19.5 L34,17 C34,15.8954305 33.1045695,15 32,15 L29,15 L29,15 C27.8954305,15 27,15.8954305 27,17 L27,17 L27,19.5 L27,25.4166667 L28.2804878,37 L32.7195122,37 L34,25.4166667 L34,19.5 Z M30.4583333,40.375 C32.5,40.375 33.9583333,41.7916667 33.9583333,43.8333333 C33.9583333,45.9166667 32.5,47.3333333 30.4583333,47.3333333 C28.4583333,47.3333333 27,45.9166667 27,43.8333333 C27,41.7916667 28.4583333,40.375 30.4583333,40.375 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

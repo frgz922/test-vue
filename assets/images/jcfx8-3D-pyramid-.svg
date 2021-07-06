@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="811px" height="505px" viewBox="0 0 811 505" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>3D pyramidjcfx8-</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L799,0 L799,485.00617 C799,489.421041 795.415717,493 790.994892,493 L8.00510803,493 C3.58400894,493 0,489.418886 0,485.00617 L0,0 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.4%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-1.4%" width="102.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.674509804   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="141.421356%" id="radialGradient-4">
+            <stop stop-color="#90CAF9" offset="0%"></stop>
+            <stop stop-color="#58ACF4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="141.421356%" id="radialGradient-5">
+            <stop stop-color="#B39DDB" offset="0%"></stop>
+            <stop stop-color="#8867C7" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="141.421356%" id="radialGradient-6">
+            <stop stop-color="#80DEEA" offset="0%"></stop>
+            <stop stop-color="#44CADD" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="19.5695715%" fx="100%" fy="19.5695715%" r="128.331811%" id="radialGradient-7">
+            <stop stop-color="#A5D6A7" offset="0%"></stop>
+            <stop stop-color="#72C076" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="126.892638%" id="radialGradient-8">
+            <stop stop-color="#E6EE9C" offset="0%"></stop>
+            <stop stop-color="#D8E467" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="89.1830027%" y1="100%" x2="89.1830027%" y2="0%" id="linearGradient-9">
+            <stop stop-color="#FAD564" offset="0%"></stop>
+            <stop stop-color="#FFC007" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="24.731824%" x2="100%" y2="65.575549%" id="linearGradient-10">
+            <stop stop-color="#FAD564" offset="0%"></stop>
+            <stop stop-color="#FFC007" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#44CADD" offset="0%"></stop>
+            <stop stop-color="#80DEEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.5403953%" y1="100%" x2="42.5403966%" y2="0%" id="linearGradient-13">
+            <stop stop-color="#A5D6A7" offset="0%"></stop>
+            <stop stop-color="#72C076" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.5682435%" y1="100%" x2="41.5682442%" y2="0%" id="linearGradient-14">
+            <stop stop-color="#E6EE9C" offset="0%"></stop>
+            <stop stop-color="#D8E467" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-15">
+            <stop stop-color="#44CADD" offset="0%"></stop>
+            <stop stop-color="#80DEEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-16">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-7.45960406%" y1="49.9999993%" x2="92.5403959%" y2="50.0000007%" id="linearGradient-17">
+            <stop stop-color="#A5D6A7" offset="0%"></stop>
+            <stop stop-color="#72C076" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-18">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-19">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-8.43175614%" y1="49.9999996%" x2="91.5682439%" y2="50.0000004%" id="linearGradient-20">
+            <stop stop-color="#DDE778" offset="0%"></stop>
+            <stop stop-color="#D8E467" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3D-pyramid" transform="translate(6.000000, 5.000000)">
+            <g id="Group-44">
+                <g id="Group-42">
+                    <g id="Area-Chart">
+                        <g id="2D-side-by-Side">
+                            <g id="Rectangle">
+                                <g id="Rectangle-path">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                            <text id="3D-Pyramid" font-family="Nunito-ExtraBold, Nunito" font-size="18" font-weight="600" fill="#5B6C7F">
+                                <tspan x="20" y="34.6196581">3D Pyramid</tspan>
+                            </text>
+                            <text id="Subtitle-3D-pyramid" font-family="Nunito-SemiBold, Nunito" font-size="14" font-weight="500" fill="#7B8797">
+                                <tspan x="20" y="56.3461538">Subtitle 3D pyramid charts</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-13" transform="translate(20.000000, 269.000000)">
+                        <text id="Series-1" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                            <tspan x="27.332" y="14">Series 1</tspan>
+                        </text>
+                        <text id="Series-2" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                            <tspan x="27.332" y="44.25">Series 2</tspan>
+                        </text>
+                        <text id="Series-3" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                            <tspan x="27.332" y="74.5">Series 3</tspan>
+                        </text>
+                        <text id="Series-4" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                            <tspan x="27.332" y="104.75">Series 4</tspan>
+                        </text>
+                        <text id="Series-5" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                            <tspan x="27.332" y="135">Series 5</tspan>
+                        </text>
+                        <rect id="Rectangle-6" fill="url(#radialGradient-4)" fill-rule="nonzero" x="0" y="0" width="20" height="20"></rect>
+                        <rect id="Rectangle-6" fill="url(#radialGradient-5)" fill-rule="nonzero" x="0" y="30" width="20" height="20"></rect>
+                        <rect id="Rectangle-6" fill="url(#radialGradient-6)" fill-rule="nonzero" x="0" y="60" width="20" height="20"></rect>
+                        <rect id="Rectangle-6" fill="url(#radialGradient-7)" fill-rule="nonzero" x="0" y="90" width="20" height="20"></rect>
+                        <rect id="Rectangle-6" fill="url(#radialGradient-8)" fill-rule="nonzero" x="0" y="120" width="20" height="20"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-45" transform="translate(211.000000, 65.000000)">
+                <polygon id="Combined-Shape" fill="#F2B709" points="28.8244741 242.944446 0.952241238 273.355351 230.373571 361.421948 230.009332 320.172078 429.243408 239.490479"></polygon>
+                <polygon id="Combined-Shape" fill="#CED962" points="64.008615 199.034454 31.1513672 239.741211 230.371394 316.338209 229.897884 265.713378 394.216309 196.213379"></polygon>
+                <polygon id="Combined-Shape" fill="#71BA74" points="363.070143 158.243739 391.546387 192.214844 229.556094 257.71995 229.164795 212.345011 94.6638184 160.600586"></polygon>
+                <polygon id="Combined-Shape" fill="#46C6D9" points="324.731856 112.851961 363.070143 153.243739 229.164795 207.345011 228.684564 151.657586 132.344238 114.565674"></polygon>
+                <polygon id="Combined-Shape" fill="#8365BF" points="283.553695 64.4681998 321.850586 108.839844 228.684564 146.657586 228.168761 86.8451658 172.649414 65.1101074"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-9)" points="429.166592 239.444974 457.565323 269.36481 229.715909 361.421948 229.360183 320.172004 429.166592 239.444974"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-10)" points="28.8244741 242.944446 0.952241238 273.355351 230.373571 361.421948 230.009332 320.172078"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-11)" points="324.731856 112.851961 363.070143 153.243739 229.164795 207.345011 228.684564 151.657586"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-12)" points="283.553695 64.4681998 321.958984 109.005371 228.684564 146.657586 228.168761 86.8451658"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-13)" points="363.070143 158.243739 391.632324 192.288574 229.556094 257.71995 229.164795 212.345011"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-14)" points="394.308747 196.155558 426.727539 236.566895 230.018539 316.344879 229.556094 265.71995"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-15)" points="132.295585 114.527737 96.199707 158.269531 229.497222 207.33852 229.0055 151.651195"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-16)" points="172.710323 65.1121207 134.975098 110.203125 229.0055 146.33139 228.477354 86.5190782"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-17)" points="94.6680711 160.582459 67.5854492 194.041992 229.897884 257.713378 229.497222 212.33852"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-18)" points="281.693848 61.8696289 227.693359 0.498535156 228.547363 82.3549805"></polygon>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="246.049848" y="12.4985352">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="301.314984" y="76.4681998">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="345.426143" y="124.851961">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="381.988324" y="170.243739">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="413.083539" y="208.155558">70%</tspan>
+                </text>
+                <text id="70%" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="449.921323" y="251.444974">70%</tspan>
+                </text>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-19)" points="175.239746 61.2456055 227.757983 0.370388763 228.664062 82.2910156"></polygon>
+                <polygon id="Combined-Shape" fill="url(#linearGradient-20)" points="64.008615 199.034454 31.1318359 239.991699 230.371394 316.338209 229.897884 265.713378"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

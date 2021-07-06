@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810px" height="504px" viewBox="0 0 810 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>2D-Ganttjcfx8-</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.5,0.5 L799.5,0.5 L799.5,485.50617 C799.5,489.921041 795.915717,493.5 791.494892,493.5 L8.50510803,493.5 C4.08400894,493.5 0.5,489.918886 0.5,485.50617 L0.5,0.5 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.4%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-1.4%" width="102.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.674509804   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E4E7EA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0.5" y="0.2855237" width="714" height="363" rx="3"></rect>
+        <filter x="-2.5%" y="-5.0%" width="105.0%" height="109.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.51372549   0 0 0 0 0.6   0 0 0 0 0.643137255  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-8" x="92" y="410" width="142" height="25"></rect>
+        <filter x="-1.4%" y="-8.0%" width="105.6%" height="132.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="220" y="370.625" width="142" height="25"></rect>
+        <filter x="-1.4%" y="-8.0%" width="105.6%" height="132.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="150" y="331" width="258" height="25"></rect>
+        <filter x="-0.8%" y="-8.0%" width="103.1%" height="132.0%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-14" x="259" y="291.375" width="175" height="25"></rect>
+        <filter x="-1.1%" y="-8.0%" width="104.6%" height="132.0%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-16" x="279" y="254" width="129" height="25"></rect>
+        <filter x="-1.6%" y="-8.0%" width="106.2%" height="132.0%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="122" y="213.125" width="258" height="25"></rect>
+        <filter x="-0.8%" y="-8.0%" width="103.1%" height="132.0%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-20" x="622" y="173.75" width="142" height="25"></rect>
+        <filter x="-1.4%" y="-8.0%" width="105.6%" height="132.0%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-22" x="472" y="134.375" width="142" height="25"></rect>
+        <filter x="-1.4%" y="-8.0%" width="105.6%" height="132.0%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-24" x="602" y="95" width="142" height="25"></rect>
+        <filter x="-1.4%" y="-8.0%" width="105.6%" height="132.0%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2D-Gantt" transform="translate(5.000000, 4.000000)">
+            <g id="Rectangle">
+                <g id="Rectangle-path">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="Group-8" transform="translate(64.000000, 457.000000)" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                <text id="10">
+                    <tspan x="60.0588745" y="12.3659408">10</tspan>
+                </text>
+                <text id="0">
+                    <tspan x="0.742279942" y="12.3659408">0</tspan>
+                </text>
+                <text id="20">
+                    <tspan x="127.568254" y="12.3659408">20</tspan>
+                </text>
+                <text id="30">
+                    <tspan x="195.077633" y="12.3659408">30</tspan>
+                </text>
+                <text id="40">
+                    <tspan x="262.587013" y="12.3659408">40</tspan>
+                </text>
+                <text id="50">
+                    <tspan x="330.096392" y="12.3659408">50</tspan>
+                </text>
+                <text id="60">
+                    <tspan x="397.617772" y="12.3659408">60</tspan>
+                </text>
+                <text id="70">
+                    <tspan x="465.115152" y="12.3659408">70</tspan>
+                </text>
+                <text id="80">
+                    <tspan x="531.631746" y="12.3659408">80</tspan>
+                </text>
+                <text id="90">
+                    <tspan x="599.141126" y="12.3659408">90</tspan>
+                </text>
+                <text id="100">
+                    <tspan x="666.4" y="12.3659408">100</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-2" stroke-dasharray="2,3" transform="translate(64.000000, 84.000000)">
+                <g id="path-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <rect stroke="#CFD5DC" stroke-width="1" stroke-linejoin="square" fill="url(#linearGradient-4)" fill-rule="evenodd" x="1" y="0.7855237" width="713" height="362" rx="3"></rect>
+                </g>
+            </g>
+            <g id="Group-16" transform="translate(20.000000, 100.000000)" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                <text id="Act.-1">
+                    <tspan x="-0.292" y="326.470726">Act. 1</tspan>
+                </text>
+                <text id="Act.-2">
+                    <tspan x="-0.292" y="287.161886">Act. 2</tspan>
+                </text>
+                <text id="Act.-3">
+                    <tspan x="-0.292" y="247.853045">Act. 3</tspan>
+                </text>
+                <text id="Act.-4">
+                    <tspan x="-0.292" y="208.544204">Act. 4</tspan>
+                </text>
+                <text id="Act.-5">
+                    <tspan x="-0.292" y="169.235363">Act. 5</tspan>
+                </text>
+                <text id="Act.-6">
+                    <tspan x="-0.28" y="129.926522">Act. 6</tspan>
+                </text>
+                <text id="Act.-7">
+                    <tspan x="-0.292" y="90.6176816">Act. 7</tspan>
+                </text>
+                <text id="Act.-9">
+                    <tspan x="-0.292" y="12">Act. 9</tspan>
+                </text>
+                <text id="Act.-8">
+                    <tspan x="-0.292" y="51.3088408">Act. 8</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(21.000000, 17.000000)" fill="#5B6C7F" font-family="Nunito-ExtraBold, Nunito" font-size="18" font-weight="600">
+                <text id="2D-Gantt">
+                    <tspan x="0" y="18">2D Gantt</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(21.000000, 45.000000)">
+                <g id="path-9-link" fill="#FFFFFF">
+                    <rect id="path-9" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="0.5" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="Series-1" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="22.332" y="14">Series 1</tspan>
+                </text>
+                <g id="path-10-link" transform="translate(75.947149, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-10" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="76.447149" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="25" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="108.6" y="14">25</tspan>
+                </text>
+                <g id="path-11-link" transform="translate(151.894298, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-11" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="152.394298" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="45" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="184.6" y="14">45</tspan>
+                </text>
+                <g id="path-12-link" transform="translate(227.841446, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-12" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="228.341446" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="80" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="260.6" y="14">80</tspan>
+                </text>
+                <g id="path-13-link" transform="translate(303.788595, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-13" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="304.288595" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="65" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="336.612" y="14">65</tspan>
+                </text>
+                <g id="path-14-link" transform="translate(379.735744, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-14" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="380.235744" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="70" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="412.6" y="14">70</tspan>
+                </text>
+                <g id="path-15-link" transform="translate(455.682893, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-15" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="456.182893" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="65" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="488.612" y="14">65</tspan>
+                </text>
+                <g id="path-16-link" transform="translate(531.630042, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-16" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="532.130042" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="99" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="564.6" y="14">99</tspan>
+                </text>
+                <g id="path-17-link" transform="translate(607.577191, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-17" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="608.077191" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="67" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="640.612" y="14">67</tspan>
+                </text>
+                <g id="path-18-link" transform="translate(683.524339, 0.000000)" fill="#FFFFFF">
+                    <rect id="path-18" x="0" y="0" width="74.9478442" height="20"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#CFD5DC" x="684.024339" y="0.5" width="73.9478442" height="19"></rect>
+                <text id="98" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                    <tspan x="716.6" y="14">98</tspan>
+                </text>
+            </g>
+            <g id="Group-12" stroke-dasharray="2,3" transform="translate(125.000000, 86.000000)" stroke="#CFD5DC">
+                <path d="M0.2734375,359.550781 L0.2734375,0.0666970499" id="Path-3"></path>
+                <path d="M68.8289931,359.550781 L68.8289931,0.0666970499" id="Path-3"></path>
+                <path d="M137.384549,359.550781 L137.384549,0.0666970499" id="Path-3"></path>
+                <path d="M205.940104,359.550781 L205.940104,0.0666970499" id="Path-3"></path>
+                <path d="M274.49566,359.550781 L274.49566,0.0666970499" id="Path-3"></path>
+                <path d="M343.051215,359.550781 L343.051215,0.0666970499" id="Path-3"></path>
+                <path d="M411.606771,359.550781 L411.606771,0.0666970499" id="Path-3"></path>
+                <path d="M480.162326,359.550781 L480.162326,0.0666970499" id="Path-3"></path>
+                <path d="M548.717882,359.550781 L548.717882,0.0666970499" id="Path-3"></path>
+                <path d="M617.273438,359.550781 L617.273438,0.0666970499" id="Path-3"></path>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-10"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-12"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-14"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-16"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-18"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-20"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-22"></use>
+            </g>
+            <g id="Rectangle-5" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
+                <use fill="url(#linearGradient-7)" xlink:href="#path-24"></use>
+            </g>
+        </g>
+    </g>
+</svg>

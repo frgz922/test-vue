@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="811px" height="503px" viewBox="0 0 811 503" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>jcfx8-Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.500625,0.5256475 L800.499375,0.5256475 L800.499375,483.482083 C800.499375,487.899439 796.910612,491.480413 792.500508,491.480413 L8.49949234,491.480413 C4.08183989,491.480413 0.500625,487.89704 0.500625,483.482083 L0.500625,0.5256475 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.4%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-1.4%" width="102.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.674509804   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0.918085704%" y1="100%" x2="98.8665294%" y2="1.14397321%" id="linearGradient-4">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-5" points="78 309.996372 133.551898 287.525392 187.288756 234.53222 242.903107 286.133825 296.932714 256.797304 352.828103 346.929716 418.349052 225.955619 521.880427 169.313131 578.919486 249.690369 630.771046 278.13941 695 245.820959 695 440.214141 78 440.214141"></polyline>
+        <filter x="-0.3%" y="-2.2%" width="101.3%" height="103.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="4" dy="-4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="62.4612749%" x2="0%" y2="62.4612749%" id="linearGradient-7">
+            <stop stop-color="#44CADD" offset="0%"></stop>
+            <stop stop-color="#80DEEA" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-8" points="78 339.950415 133.551898 321.842173 187.288756 279.137619 242.903107 320.720778 296.932714 297.07994 352.828103 369.713155 418.349052 272.226164 521.880427 226.580808 578.919486 291.352815 630.771046 314.278478 695 288.23465 695 444.886421 78 444.886421"></polyline>
+        <filter x="-0.3%" y="-2.7%" width="101.3%" height="103.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="4" dy="-4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="49.2436623%" y1="0.756337691%" x2="49.2436623%" y2="99.2436623%" id="linearGradient-10">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-11" points="78 363.408763 133.551898 349.348602 187.288756 316.190612 242.903107 348.477894 296.932714 330.121944 352.828103 386.51807 418.349052 310.824206 521.880427 275.382828 578.919486 325.675112 630.771046 343.475764 695 323.25401 695 444.886421 78 444.886421"></polyline>
+        <filter x="-1.0%" y="-3.5%" width="101.3%" height="104.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="-4" dy="-4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(5.000000, 4.000000)">
+            <g id="Group-11" transform="translate(0.000000, 0.497980)">
+                <g id="Group-5">
+                    <g id="Lines-and-Stripes">
+                        <g id="Area-Chart">
+                            <g id="2D-side-by-Side">
+                                <g id="Rectangle">
+                                    <g id="Rectangle-path">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                    </g>
+                                </g>
+                                <g id="Group-7" transform="translate(21.026250, 85.154895)">
+                                    <g id="Group-4">
+                                        <g id="Rectangle-2" opacity="0.6" stroke-dasharray="2,3" transform="translate(56.070000, 6.307770)" fill="#E5E7EA" fill-opacity="0.640341938" stroke="#CFD5DC">
+                                            <g id="path-25-Clipped">
+                                                <path d="M0.907912154,3.30184746 L0.907912154,350.676544 C0.907912154,352.053984 2.02926476,353.178222 3.40660747,353.178222 L619.185467,353.178222 C620.563733,353.178222 621.684162,352.057341 621.684162,350.676544 L621.684162,3.30184746 C621.684162,1.92440754 620.56281,0.800169638 619.185467,0.800169638 L3.40660747,0.800169638 C2.02834121,0.800169638 0.907912154,1.92105049 0.907912154,3.30184746 Z" id="path-25"></path>
+                                            </g>
+                                        </g>
+                                        <g id="Group" opacity="0.6" transform="translate(57.071250, 37.170607)" stroke="#CFD5DC">
+                                            <path d="M0.0757811289,293.015127 L620.941374,293.015127" id="Path-2"></path>
+                                            <path d="M0.0757811289,263.729653 L620.941374,263.729653" id="Path-2"></path>
+                                            <path d="M0.0757811289,234.444179 L620.941374,234.444179" id="Path-2"></path>
+                                            <path d="M0.0757811289,205.158706 L620.941374,205.158706" id="Path-2"></path>
+                                            <path d="M0.0757811289,175.873231 L620.941374,175.873231" id="Path-2"></path>
+                                            <path d="M0.0757811289,146.587757 L620.941374,146.587757" id="Path-2"></path>
+                                            <path d="M0.0757811289,117.302283 L620.941374,117.302283" id="Path-2"></path>
+                                            <path d="M0.0757811289,88.0168092 L620.941374,88.0168092" id="Path-2"></path>
+                                            <path d="M0.0757811289,58.7313354 L620.941374,58.7313354" id="Path-2"></path>
+                                            <path d="M0.0757811289,29.4458615 L620.941374,29.4458615" id="Path-2"></path>
+                                            <path d="M0.0757811289,0.160387563 L620.941374,0.160387563" id="Path-2"></path>
+                                        </g>
+                                        <g id="Group-3" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                                            <text id="0">
+                                                <tspan x="21.83625" y="364.176532">0</tspan>
+                                            </text>
+                                            <text id="500">
+                                                <tspan x="7.43625" y="336.668254">500</tspan>
+                                            </text>
+                                            <text id="1000">
+                                                <tspan x="0.23625" y="307.057385">1000</tspan>
+                                            </text>
+                                            <text id="1500">
+                                                <tspan x="0.23625" y="277.446518">1500</tspan>
+                                            </text>
+                                            <text id="2000">
+                                                <tspan x="0.23625" y="247.835649">2000</tspan>
+                                            </text>
+                                            <text id="2500">
+                                                <tspan x="0.23625" y="218.224782">2500</tspan>
+                                            </text>
+                                            <text id="3000">
+                                                <tspan x="0.23625" y="188.613913">3000</tspan>
+                                            </text>
+                                            <text id="3500">
+                                                <tspan x="0.23625" y="159.003046">3500</tspan>
+                                            </text>
+                                            <text id="4000">
+                                                <tspan x="0.23625" y="129.392177">4000</tspan>
+                                            </text>
+                                            <text id="4500">
+                                                <tspan x="0.23625" y="99.7813092">4500</tspan>
+                                            </text>
+                                            <text id="5000">
+                                                <tspan x="0.23625" y="70.1704412">5000</tspan>
+                                            </text>
+                                            <text id="6000">
+                                                <tspan x="0.24825" y="12">6000</tspan>
+                                            </text>
+                                            <text id="5500">
+                                                <tspan x="0.23625" y="40.559573">5500</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                </g>
+                                <text id="Solid-BG-Plot-Area" font-family="Nunito-ExtraBold, Nunito" font-size="18" font-weight="600" fill="#5B6C7F">
+                                    <tspan x="21.02625" y="35.872015">Solid BG Plot Area</tspan>
+                                </text>
+                                <text id="Rounded-Corners-and" font-family="Nunito-SemiBold, Nunito" font-size="14" font-weight="500" fill="#7B8797">
+                                    <tspan x="21.02625" y="61.308275">Rounded Corners and Solid Grid Lines </tspan>
+                                </text>
+                            </g>
+                            <text id="Series-1" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                                <tspan x="736.30575" y="105.565255">Series 1</tspan>
+                            </text>
+                            <text id="Series-2" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                                <tspan x="736.30575" y="137.104105">Series 2</tspan>
+                            </text>
+                            <text id="Series-3" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500" fill="#556E7D">
+                                <tspan x="736.30575" y="168.642955">Series 3</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(96.000000, 455.080656)" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                            <text id="Jan">
+                                <tspan x="0.78" y="12.1453825">Jan</tspan>
+                            </text>
+                            <text id="Feb">
+                                <tspan x="49.3888475" y="12.1453825">Feb</tspan>
+                            </text>
+                            <text id="Mar">
+                                <tspan x="101.782983" y="12.1453825">Mar</tspan>
+                            </text>
+                            <text id="Apr">
+                                <tspan x="152.627186" y="12.1453825">Apr</tspan>
+                            </text>
+                            <text id="May">
+                                <tspan x="205.42261" y="12.1453825">May</tspan>
+                            </text>
+                            <text id="Jun">
+                                <tspan x="261.579458" y="12.1453825">Jun</tspan>
+                            </text>
+                            <text id="Jul">
+                                <tspan x="314.815017" y="12.1453825">Jul</tspan>
+                            </text>
+                            <text id="Aug">
+                                <tspan x="360.113797" y="12.1453825">Aug</tspan>
+                            </text>
+                            <text id="Sep">
+                                <tspan x="414.167288" y="12.1453825">Sep</tspan>
+                            </text>
+                            <text id="Oct">
+                                <tspan x="466.055492" y="12.1453825">Oct</tspan>
+                            </text>
+                            <text id="Nov">
+                                <tspan x="516.769627" y="12.1453825">Nov</tspan>
+                            </text>
+                            <text id="Dec">
+                                <tspan x="570.759763" y="12.1453825">Dec</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="#E3E6EA" x="78" y="90.6323232" width="51" height="352.569697"></rect>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="#E3E6EA" x="181.8" y="90.6323232" width="51" height="352.569697"></rect>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="#E3E6EA" x="285.6" y="90.6323232" width="51" height="352.569697"></rect>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="#E3E6EA" x="389.4" y="90.6323232" width="51" height="352.569697"></rect>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="#E3E6EA" x="493.2" y="90.6323232" width="51" height="352.569697"></rect>
+                    <rect id="Rectangle-3" fill-opacity="0.3" fill="#E3E6EA" x="597" y="90.6323232" width="51" height="352.569697"></rect>
+                </g>
+                <g id="Area-chart">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+            </g>
+            <g id="Area-chart">
+                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
+            </g>
+            <g id="Area-chart" transform="translate(386.500000, 360.134625) scale(-1, 1) translate(-386.500000, -360.134625) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-11"></use>
+            </g>
+        </g>
+    </g>
+</svg>

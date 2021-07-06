@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810px" height="504px" viewBox="0 0 810 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Horizontal Zero Axis Bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.5,0.50203252 L799.5,0.50203252 L799.5,485.504204 C799.5,489.919038 795.915717,493.497967 791.494892,493.497967 L8.50510803,493.497967 C4.08400894,493.497967 0.5,489.916883 0.5,485.504204 L0.5,0.50203252 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-1.7%" width="102.4%" height="103.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.0%" y="-1.4%" width="102.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.674509804   0 0 0 0 0.956862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E4E7EA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0.4074029" y="0.286684365" width="661" height="337.502364" rx="3"></rect>
+        <filter x="-2.7%" y="-5.3%" width="105.4%" height="110.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.51372549   0 0 0 0 0.6   0 0 0 0 0.643137255  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.6%" y="-2.6%" width="103.2%" height="105.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.411764706   0 0 0 0 0.501960784  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-3.02709247e-14%" y1="50%" x2="98.4873246%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#8867C7" offset="0%"></stop>
+            <stop stop-color="#B39DDB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-9">
+            <stop stop-color="#58ACF4" offset="0%"></stop>
+            <stop stop-color="#90CAF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Horizontal-Zero-Axis-Bar" transform="translate(5.000000, 4.000000)">
+            <g id="2D-Bars-with-shadow">
+                <g id="Rectangle">
+                    <g id="Rectangle-path">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="Group-11" transform="translate(108.000000, 430.743902)" fill="#556E7D" font-family="Nunito-SemiBold, Nunito" font-size="12" font-weight="500">
+                    <text id="-80">
+                        <tspan x="0.452" y="12.0570753">-80</tspan>
+                    </text>
+                    <text id="-60">
+                        <tspan x="68.464" y="12.0570753">-60</tspan>
+                    </text>
+                    <text id="-40">
+                        <tspan x="136.452" y="12.0570753">-40</tspan>
+                    </text>
+                    <text id="-20">
+                        <tspan x="204.452" y="12.0570753">-20</tspan>
+                    </text>
+                    <text id="0">
+                        <tspan x="265.8" y="12.0570753">0</tspan>
+                    </text>
+                    <text id="20">
+                        <tspan x="326.6" y="12.0570753">20</tspan>
+                    </text>
+                    <text id="40">
+                        <tspan x="390.6" y="12.0570753">40</tspan>
+                    </text>
+                    <text id="60">
+                        <tspan x="454.612" y="12.0570753">60</tspan>
+                    </text>
+                    <text id="80">
+                        <tspan x="517.6" y="12.0570753">80</tspan>
+                    </text>
+                    <text id="100">
+                        <tspan x="580.4" y="12.0570753">100</tspan>
+                    </text>
+                </g>
+                <g id="Group-7" transform="translate(59.000000, 87.353659)">
+                    <g id="Group-4">
+                        <g id="Rectangle-2" stroke-dasharray="2,3" transform="translate(19.000000, 0.000000)">
+                            <g id="path-3">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <rect stroke="#CFD5DC" stroke-width="1" stroke-linejoin="square" fill="url(#linearGradient-4)" fill-rule="evenodd" x="0.9074029" y="0.786684365" width="660" height="336.502364" rx="3"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(0.000000, 24.097561)" fill="#7B8797" font-family="Nunito-Regular, Nunito" font-size="12" font-weight="normal">
+                            <text id="1">
+                                <tspan x="0" y="287.70485">1</tspan>
+                            </text>
+                            <text id="2">
+                                <tspan x="0" y="253.317783">2</tspan>
+                            </text>
+                            <text id="3">
+                                <tspan x="0" y="218.930717">3</tspan>
+                            </text>
+                            <text id="4">
+                                <tspan x="0" y="184.54365">4</tspan>
+                            </text>
+                            <text id="5">
+                                <tspan x="0" y="150.156584">5</tspan>
+                            </text>
+                            <text id="6">
+                                <tspan x="0" y="115.769516">6</tspan>
+                            </text>
+                            <text id="7">
+                                <tspan x="0" y="81.3824502">7</tspan>
+                            </text>
+                            <text id="8">
+                                <tspan x="0" y="46.9953829">8</tspan>
+                            </text>
+                            <text id="9">
+                                <tspan x="0" y="12.6083164">9</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-27" transform="translate(119.000000, 88.357724)" stroke="#CFD5DC">
+                    <path d="M1.5,336.569661 L1.5,0.20787284" id="Path-3"></path>
+                    <path d="M65.6111111,336.569661 L65.6111111,0.20787284" id="Path-3"></path>
+                    <path d="M129.722222,336.569661 L129.722222,0.20787284" id="Path-3"></path>
+                    <path d="M193.833333,336.569661 L193.833333,0.20787284" id="Path-3"></path>
+                    <path d="M257.944444,336.569661 L257.944444,0.20787284" id="Path-3"></path>
+                    <path d="M322.055556,336.569661 L322.055556,0.20787284" id="Path-3"></path>
+                    <path d="M386.166667,336.569661 L386.166667,0.20787284" id="Path-3"></path>
+                    <path d="M450.277778,336.569661 L450.277778,0.20787284" id="Path-3"></path>
+                    <path d="M514.388889,336.569661 L514.388889,0.20787284" id="Path-3"></path>
+                    <path d="M578.5,336.569661 L578.5,0.20787284" id="Path-3"></path>
+                </g>
+                <g id="Group-15" transform="translate(78.000000, 425.723577)"></g>
+                <text id="2D-Horizontal-Zero-A" font-family="Nunito-ExtraBold, Nunito" font-size="18" font-weight="600" fill="#5B6C7F">
+                    <tspan x="54" y="35.1178862">2D Horizontal Zero Axis Gradient Horiz. With Shadow</tspan>
+                </text>
+                <text id="2D-stacked-bars-sub" font-family="Nunito-SemiBold, Nunito" font-size="14" font-weight="500" fill="#7B8797">
+                    <tspan x="54" y="59.2215447">2D stacked bars sub</tspan>
+                </text>
+            </g>
+            <g id="Group-37" filter="url(#filter-7)" transform="translate(130.000000, 106.430894)">
+                <g id="Group-28" transform="translate(175.700025, 0.964844)">
+                    <rect id="Rectangle-4" fill="url(#linearGradient-8)" x="0" y="0" width="71.2734319" height="25.0819024"></rect>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="71.2734319 0 318.354662 0 318.354662 25.0819024 71.2734319 25.0819024"></polygon>
+                </g>
+                <g id="Group-29" transform="translate(222.957273, 34.545346)">
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-8)" points="0 0 24.5497376 0 24.5497376 25.0819024 0 25.0819024"></polygon>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="24.5497376 0 192.438266 0 192.438266 25.0819024 24.5497376 25.0819024"></polygon>
+                </g>
+                <g id="Group-30" transform="translate(150.253815, 69.085291)">
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-8)" points="0 0 97.4070236 0 97.4070236 25.0819024 0 25.0819024"></polygon>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="97.4070236 0 265.295552 0 265.295552 25.0819024 97.4070236 25.0819024"></polygon>
+                </g>
+                <g id="Group-31" transform="translate(0.000000, 103.625236)">
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-8)" points="0 0 247.081231 0 247.081231 25.0819024 0 25.0819024"></polygon>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="247.081231 0 414.969759 0 414.969759 25.0819024 247.081231 25.0819024"></polygon>
+                </g>
+                <g id="Group-32" transform="translate(212.051754, 138.165181)">
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-8)" points="0 0 35.6367159 0 35.6367159 25.0819024 0 25.0819024"></polygon>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="35.6367159 0 214.612223 0 214.612223 25.0819024 35.6367159 25.0819024"></polygon>
+                </g>
+                <g id="Group-33" transform="translate(139.348296, 172.705126)">
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-8)" points="0 0 107.702075 0 107.702075 25.0819024 0 25.0819024"></polygon>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="107.702075 0 275.590603 0 275.590603 25.0819024 107.702075 25.0819024"></polygon>
+                </g>
+                <g id="Group-34" transform="translate(110.266912, 208.204514)">
+                    <rect id="Rectangle-4" fill="url(#linearGradient-8)" x="0" y="0" width="137.003375" height="25.0819024"></rect>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="137.003375 0 339.736692 0 339.736692 25.0819024 137.003375 25.0819024"></polygon>
+                </g>
+                <g id="Group-35" transform="translate(222.957273, 242.744459)">
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-8)" points="0 0 24.5497376 0 24.5497376 25.0819024 0 25.0819024"></polygon>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="24.5497376 0 148.090353 0 148.090353 25.0819024 24.5497376 25.0819024"></polygon>
+                </g>
+                <g id="Group-36" transform="translate(161.159333, 277.284404)">
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-8)" points="0 0 85.5281183 0 85.5281183 25.0819024 0 25.0819024"></polygon>
+                    <polygon id="Rectangle-4" fill="url(#linearGradient-9)" points="85.5281183 0 156.80155 0 156.80155 25.0819024 85.5281183 25.0819024"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

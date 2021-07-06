@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="219px" height="252px" viewBox="0 0 219 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>html-outline-icon-lite</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA900" offset="0%"></stop>
+            <stop stop-color="#FF7000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.0265846231,0.914527128 L19.8441673,222.668545 L108.767762,251.914527 L198.259195,222.668545 L218.076778,0.914527128 L0.0265846231,0.914527128 Z M175.034578,72.5727861 L70.6657617,72.5727861 L72.9939018,100.250018 L172.706438,100.250018 L164.983827,183.393768 L109.392385,198.521 L109.392385,198.689081 L108.767762,198.689081 L52.7220479,183.393768 L49.3150137,140.925465 L76.4009361,140.925465 L78.3883728,162.27167 L108.767762,170.395554 L139.260718,162.27167 L142.667753,127.423009 L47.8954161,127.423009 L40.6270763,45.8480093 L177.53307,45.8480093 L175.034578,72.5727861 L175.034578,72.5727861 Z" id="html-outline-icon-lite" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

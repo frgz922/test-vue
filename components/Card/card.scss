@@ -1,0 +1,39 @@
+.card {
+  &__body {
+    padding: 0 20px;
+  }
+
+  &__img {
+    margin-left: 15px;
+    margin-top: 40px;
+  }
+
+  &__title {
+    font-family: 'Graphik Semibold', Fallback, sans-serif;
+    font-size: 24px;
+    color: #000;
+  }
+
+  &__text {
+    font-family: 'Graphik Regular', Fallback, sans-serif;
+    font-size: 14px;
+    span {
+      color: #000;
+    }
+  }
+
+  &__subtitle {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Graphik Regular', Fallback, sans-serif;
+    font-size: 14px;
+
+    span {
+      cursor: pointer;
+      color: #000;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
